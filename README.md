@@ -26,6 +26,6 @@
 
 ## Contribution
 
-#### Once you get a better understanding of the project, you will see that a lot can be done with the project. There are some issues regarding the border disputes and the times of war and many other factors that do affect the medal tally of each countries which you can work on improving. The other thing that can be done is exploring complete;y by yourself by going for the winter olympics and the paralympics games and integrate those data in the web app as well. What I personally feel is that you need to research a bit regarding the previous background of the countries and the olympics games as well which is freely available in different sites like wikipedia.
+#### Once you get a better understanding of the project, you will see that a lot can be done with the project. There are some issues regarding the border disputes and the times of war and many other factors that do affect the medal tally of each countries which you can work on improving. The other thing that can be done is exploring completely by yourself by going for the winter olympics and the paralympics games and integrate those data in the web app as well. What I personally feel is that you need to research a bit regarding the previous background of the countries and the olympics games as well which is freely available in different sites like wikipedia.
 
 #### Feel free to fork this project and make your own changes too. Pull requests for any changes are accepted as well.
