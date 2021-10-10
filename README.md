@@ -22,7 +22,7 @@
 
 ## How does it work?
 
-#### So basically we preprocessed the dataset and merged them then we removed the Winter Olympics data as we are going only for the summer olympics data as of now. Next, we plot different regarding overall analysis, athlete wise analysis and even country wise analysis. We finally used the analyzed data to deploy it using Streamlit in heroku.
+#### So basically we preprocessed the dataset and merged them. Then we removed the Winter Olympics data as we are going only for the summer olympics data as of now. Next, we plot different regarding overall analysis, athlete wise analysis and even country wise analysis. We finally used the analyzed data to deploy it using Streamlit in heroku.
 
 ## Contribution
 
